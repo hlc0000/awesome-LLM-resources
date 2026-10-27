@@ -324,6 +324,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 17. [YourBench](https://github.com/huggingface/yourbench): A Dynamic Benchmark Generation Framework.
 18. [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit): A Unified Medical Evaluation Framework.
 19. [OpenJudge](https://github.com/modelscope/OpenJudge): A Unified Framework for Holistic Evaluation and Quality Rewards.
+20. [rag-verifier](https://github.com/hlc0000/rag-verifier): A quality gate for RAG pipelines — verifies chunk self-sufficiency before ingestion (split conditionals, dangling references, template placeholders) and citation faithfulness after generation, via a deterministic rule layer with a fail-open LLM fallback. Zero-dependency core, zh/en rule parity enforced in CI.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
